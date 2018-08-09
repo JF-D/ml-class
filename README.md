@@ -1,3 +1,7 @@
-# ml_class
-Course project of ML class(Andrew Ng)
-Class: https://www.coursera.org/learn/machine-learning/home/welcome
+# ml-class
+These projects are from an online machine learning class taught by Andrew Ng.
+
+Course Info: https://www.coursera.org/learn/machine-learning/home/welcome
+
+# NOTE
+The main code is provided by the class.
